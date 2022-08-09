@@ -1,5 +1,5 @@
 homepage: "https://business.twitter.com/"
 documentation: "https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking-for-websites.html"
 versions:
-  - sha: 0000
+  - sha: 49f3e55752f9a8f19a32e877da706aae80773987
     changeNotes: Initial release of Event Pixel
