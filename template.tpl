@@ -304,7 +304,7 @@ const twq = function () {
   }
 };
 
-twq.integration = 'gtm-event';
+twq.integration = 'gtm';
 twq.queue = [];
 // Function signiture: setInWindow(key, value, overrideExisting)
 setInWindow('twq', twq, false);
